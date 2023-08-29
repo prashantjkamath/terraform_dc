@@ -3,7 +3,7 @@
 This Repository gives to create Terraform Docker container creation.
 
 Pre-requisites:
-Terraform installed\n
-Docker Installed 
+1) Terraform installed 
+2) Docker Installed 
 
 
